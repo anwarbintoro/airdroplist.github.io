@@ -1,1 +1,1 @@
-# airdroplist.github.io
+# airdroplist
